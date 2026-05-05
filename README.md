@@ -26,7 +26,7 @@ Features
 - Active/Inactive status display
 
 Screenshots
-- <img width="1024" height="576" alt="blood" src="https://github.com/user-attachments/assets/772061e7-db40-4863-a9ec-e433c839f341" />
+- <img width="500" height="500" alt="blood" src="https://github.com/user-attachments/assets/772061e7-db40-4863-a9ec-e433c839f341" />
 
 - Fetch validation rules
 - Enable/Disable validation rules
